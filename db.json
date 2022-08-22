@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "kavita",
+      "lastName": "kadkja",
+      "email": "kavita@gmail.com",
+      "mobile": "336622"
+    },
+    {
+      "id": 2,
+      "firstName": "priyanka",
+      "lastName": "sdsdkad",
+      "email": "kavita",
+      "mobile": "22446622"
+    },
+    {
+      "id": 3,
+      "firstName": "savita",
+      "lastName": "sd",
+      "email": "kavita",
+      "mobile": "kad"
+    },
+    {
+      "id": 4,
+      "firstName": "priyanka",
+      "lastName": "sd",
+      "email": "kad",
+      "mobile": "kavita"
+    },
+    {
+      "id": 5,
+      "firstName": "priyanka",
+      "lastName": "kad",
+      "email": "sd",
+      "mobile": "sd"
+    },
+    {
+      "id": 6,
+      "firstName": "priyanka",
+      "lastName": "sd",
+      "email": "sds",
+      "mobile": "sds"
+    },
+    {
+      "id": 8,
+      "firstName": "kavita",
+      "lastName": "sds",
+      "email": "ghadwaje",
+      "mobile": "sd"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
